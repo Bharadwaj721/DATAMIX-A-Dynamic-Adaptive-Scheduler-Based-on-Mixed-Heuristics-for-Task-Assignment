@@ -83,15 +83,16 @@ DATAMIX is a simple yet effective scheduling algorithm that dynamically adapts i
 
 ---
 
-## License
+## Contact
 
-This project is licensed under the MIT License.
+Feel free to reach out to me via:
 
----
+Email: bharadwajnitw@gmail.com
 
-## Acknowledgment
+GitHub: [@Bharadwaj721](https://github.com/Bharadwaj721)
 
-This work builds upon insights from traditional scheduling heuristics and contributes a new adaptive hybrid that can inspire further dynamic scheduling strategies.
+I'd be happy to discuss, collaborate, or just hear your thoughts!
 
+## License 
 
-
+This project is licensed under the [MIT License](./LICENSE).
